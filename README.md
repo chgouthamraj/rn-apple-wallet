@@ -3,4 +3,5 @@ apple-wallet
 
 ## Used react-native-gesture-handler and react-native-reanimated 
 
-<video src="./assets/video/rn-demo-video.mp4" width="320" height="240" controls></video>
+https://github.com/chgouthamraj/rn-apple-wallet/assets/75805397/5402426e-9b5d-4438-94fa-a9e989529367
+
